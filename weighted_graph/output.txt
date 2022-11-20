@@ -1,0 +1,253 @@
+
+
+
+                                                              Sequence No:   1
+     Index     Lower_CF   Lower_Index     Upper_CF   Upper_Index   Resultant_CF    In-degree   Out-degree       Volume   
+         0            0           -1           18           -2            9            6            6            0   
+         1            0           -1            9            0            6            3            3            0   
+         1            9            0           18           -2           15            3            3            0   
+         2            0           -1            6            1            4            3            0            3   
+         2            6            1            9            0            8            3            0            3   
+         2            9            0           15            1           13            3            0            3   
+         2           15            1           18           -2           17            3            0            3   
+
+Buffer_Vol 5  Solution_Vol 7   Waste_Vol 0  Output_Vol 12   Dilutions 7  
+Ratio Sequence :   {1,1}  {1,2}  {1,2}  
+
+
+                                                              Sequence No:   2
+     Index     Lower_CF   Lower_Index     Upper_CF   Upper_Index   Resultant_CF    In-degree   Out-degree       Volume   
+         0            0           -1           18           -2           12            9            7            2   
+         1            0           -1           12            0            6            4            3            1   
+         1           12            0           18           -2           15            4            3            1   
+         2            0           -1            6            1            4            3            0            3   
+         2            6            1           12            0           10            3            0            3   
+         2           12            0           15            1           14            3            0            3   
+         2           15            1           18           -2           17            3            0            3   
+
+Buffer_Vol 6  Solution_Vol 10   Waste_Vol 4  Output_Vol 12   Dilutions 7  
+Ratio Sequence :   {1,2}  {1,1}  {1,2}  
+
+
+                                                              Sequence No:   3
+     Index     Lower_CF   Lower_Index     Upper_CF   Upper_Index   Resultant_CF    In-degree   Out-degree       Volume   
+         0            0           -1           18           -2           12            6            5            1   
+         1            0           -1           12            0            8            3            2            1   
+         1           12            0           18           -2           16            3            2            1   
+         2            0           -1            8            1            4            2            0            2   
+         2            8            1           12            0           10            2            0            2   
+         2           12            0           16            1           14            2            0            2   
+         2           16            1           18           -2           17            2            0            2   
+
+Buffer_Vol 4  Solution_Vol 7   Waste_Vol 3  Output_Vol 8   Dilutions 7  
+Ratio Sequence :   {1,2}  {1,2}  {1,1}  
+
+
+                                                              Sequence No:   4
+     Index     Lower_CF   Lower_Index     Upper_CF   Upper_Index   Resultant_CF    In-degree   Out-degree       Volume   
+         0            0           -1           18           -2            9            6            6            0   
+         1            0           -1            9            0            6            3            3            0   
+         1            9            0           18           -2           15            3            3            0   
+         2            0           -1            6            1            2            3            0            3   
+         2            6            1            9            0            7            3            0            3   
+         2            9            0           15            1           11            3            0            3   
+         2           15            1           18           -2           16            3            0            3   
+
+Buffer_Vol 6  Solution_Vol 6   Waste_Vol 0  Output_Vol 12   Dilutions 7  
+Ratio Sequence :   {1,1}  {1,2}  {2,1}  
+
+
+                                                              Sequence No:   5
+     Index     Lower_CF   Lower_Index     Upper_CF   Upper_Index   Resultant_CF    In-degree   Out-degree       Volume   
+         0            0           -1           18           -2            9            6            6            0   
+         1            0           -1            9            0            3            3            3            0   
+         1            9            0           18           -2           12            3            3            0   
+         2            0           -1            3            1            2            3            0            3   
+         2            3            1            9            0            7            3            0            3   
+         2            9            0           12            1           11            3            0            3   
+         2           12            1           18           -2           16            3            0            3   
+
+Buffer_Vol 6  Solution_Vol 6   Waste_Vol 0  Output_Vol 12   Dilutions 7  
+Ratio Sequence :   {1,1}  {2,1}  {1,2}  
+
+
+                                                              Sequence No:   6
+     Index     Lower_CF   Lower_Index     Upper_CF   Upper_Index   Resultant_CF    In-degree   Out-degree       Volume   
+         0            0           -1           18           -2           12            9            7            2   
+         1            0           -1           12            0            6            4            3            1   
+         1           12            0           18           -2           15            4            3            1   
+         2            0           -1            6            1            2            3            0            3   
+         2            6            1           12            0            8            3            0            3   
+         2           12            0           15            1           13            3            0            3   
+         2           15            1           18           -2           16            3            0            3   
+
+Buffer_Vol 7  Solution_Vol 9   Waste_Vol 4  Output_Vol 12   Dilutions 7  
+Ratio Sequence :   {1,2}  {1,1}  {2,1}  
+
+
+                                                              Sequence No:   7
+     Index     Lower_CF   Lower_Index     Upper_CF   Upper_Index   Resultant_CF    In-degree   Out-degree       Volume   
+         0            0           -1           18           -2           12            6            5            1   
+         1            0           -1           12            0            4            3            2            1   
+         1           12            0           18           -2           14            3            2            1   
+         2            0           -1            4            1            2            2            0            2   
+         2            4            1           12            0            8            2            0            2   
+         2           12            0           14            1           13            2            0            2   
+         2           14            1           18           -2           16            2            0            2   
+
+Buffer_Vol 5  Solution_Vol 6   Waste_Vol 3  Output_Vol 8   Dilutions 7  
+Ratio Sequence :   {1,2}  {2,1}  {1,1}  
+
+
+                                                              Sequence No:   8
+     Index     Lower_CF   Lower_Index     Upper_CF   Upper_Index   Resultant_CF    In-degree   Out-degree       Volume   
+         0            0           -1           18           -2            6            9            7            2   
+         1            0           -1            6            0            3            4            3            1   
+         1            6            0           18           -2           12            4            3            1   
+         2            0           -1            3            1            2            3            0            3   
+         2            3            1            6            0            5            3            0            3   
+         2            6            0           12            1           10            3            0            3   
+         2           12            1           18           -2           16            3            0            3   
+
+Buffer_Vol 9  Solution_Vol 7   Waste_Vol 4  Output_Vol 12   Dilutions 7  
+Ratio Sequence :   {2,1}  {1,1}  {1,2}  
+
+
+                                                              Sequence No:   9
+     Index     Lower_CF   Lower_Index     Upper_CF   Upper_Index   Resultant_CF    In-degree   Out-degree       Volume   
+         0            0           -1           18           -2            6            6            5            1   
+         1            0           -1            6            0            4            3            2            1   
+         1            6            0           18           -2           14            3            2            1   
+         2            0           -1            4            1            2            2            0            2   
+         2            4            1            6            0            5            2            0            2   
+         2            6            0           14            1           10            2            0            2   
+         2           14            1           18           -2           16            2            0            2   
+
+Buffer_Vol 6  Solution_Vol 5   Waste_Vol 3  Output_Vol 8   Dilutions 7  
+Ratio Sequence :   {2,1}  {1,2}  {1,1}  
+
+
+                                                              Sequence No:   10
+     Index     Lower_CF   Lower_Index     Upper_CF   Upper_Index   Resultant_CF    In-degree   Out-degree       Volume   
+         0            0           -1           18           -2            9            6            6            0   
+         1            0           -1            9            0            3            3            3            0   
+         1            9            0           18           -2           12            3            3            0   
+         2            0           -1            3            1            1            3            0            3   
+         2            3            1            9            0            5            3            0            3   
+         2            9            0           12            1           10            3            0            3   
+         2           12            1           18           -2           14            3            0            3   
+
+Buffer_Vol 7  Solution_Vol 5   Waste_Vol 0  Output_Vol 12   Dilutions 7  
+Ratio Sequence :   {1,1}  {2,1}  {2,1}  
+
+
+                                                              Sequence No:   11
+     Index     Lower_CF   Lower_Index     Upper_CF   Upper_Index   Resultant_CF    In-degree   Out-degree       Volume   
+         0            0           -1           18           -2            6            9            7            2   
+         1            0           -1            6            0            3            4            3            1   
+         1            6            0           18           -2           12            4            3            1   
+         2            0           -1            3            1            1            3            0            3   
+         2            3            1            6            0            4            3            0            3   
+         2            6            0           12            1            8            3            0            3   
+         2           12            1           18           -2           14            3            0            3   
+
+Buffer_Vol 10  Solution_Vol 6   Waste_Vol 4  Output_Vol 12   Dilutions 7  
+Ratio Sequence :   {2,1}  {1,1}  {2,1}  
+
+
+                                                              Sequence No:   12
+     Index     Lower_CF   Lower_Index     Upper_CF   Upper_Index   Resultant_CF    In-degree   Out-degree       Volume   
+         0            0           -1           18           -2            6            6            5            1   
+         1            0           -1            6            0            2            3            2            1   
+         1            6            0           18           -2           10            3            2            1   
+         2            0           -1            2            1            1            2            0            2   
+         2            2            1            6            0            4            2            0            2   
+         2            6            0           10            1            8            2            0            2   
+         2           10            1           18           -2           14            2            0            2   
+
+Buffer_Vol 7  Solution_Vol 4   Waste_Vol 3  Output_Vol 8   Dilutions 7  
+Ratio Sequence :   {2,1}  {2,1}  {1,1}  
+
+
+                                                              Sequence No:   13
+     Index     Lower_CF   Lower_Index     Upper_CF   Upper_Index   Resultant_CF    In-degree   Out-degree       Volume   
+         0            0           -1           12           -2            6            8            7            1   
+         1            0           -1            6            0            3            4            3            1   
+         1            6            0           12           -2            9            4            3            1   
+         2            0           -1            3            1            2            3            0            3   
+         2            3            1            6            0            5            3            0            3   
+         2            6            0            9            1            8            3            0            3   
+         2            9            1           12           -2           11            3            0            3   
+
+Buffer_Vol 7  Solution_Vol 8   Waste_Vol 3  Output_Vol 12   Dilutions 7  
+Ratio Sequence :   {1,1}  {1,1}  {1,2}  
+
+
+                                                              Sequence No:   14
+     Index     Lower_CF   Lower_Index     Upper_CF   Upper_Index   Resultant_CF    In-degree   Out-degree       Volume   
+         0            0           -1           12           -2            6            6            5            1   
+         1            0           -1            6            0            4            3            2            1   
+         1            6            0           12           -2           10            3            2            1   
+         2            0           -1            4            1            2            2            0            2   
+         2            4            1            6            0            5            2            0            2   
+         2            6            0           10            1            8            2            0            2   
+         2           10            1           12           -2           11            2            0            2   
+
+Buffer_Vol 5  Solution_Vol 6   Waste_Vol 3  Output_Vol 8   Dilutions 7  
+Ratio Sequence :   {1,1}  {1,2}  {1,1}  
+
+
+                                                              Sequence No:   15
+     Index     Lower_CF   Lower_Index     Upper_CF   Upper_Index   Resultant_CF    In-degree   Out-degree       Volume   
+         0            0           -1           12           -2            8            6            4            2   
+         1            0           -1            8            0            4            2            2            0   
+         1            8            0           12           -2           10            2            2            0   
+         2            0           -1            4            1            2            2            0            2   
+         2            4            1            8            0            6            2            0            2   
+         2            8            0           10            1            9            2            0            2   
+         2           10            1           12           -2           11            2            0            2   
+
+Buffer_Vol 4  Solution_Vol 6   Waste_Vol 2  Output_Vol 8   Dilutions 7  
+Ratio Sequence :   {1,2}  {1,1}  {1,1}  
+
+
+                                                              Sequence No:   16
+     Index     Lower_CF   Lower_Index     Upper_CF   Upper_Index   Resultant_CF    In-degree   Out-degree       Volume   
+         0            0           -1           12           -2            6            8            7            1   
+         1            0           -1            6            0            3            4            3            1   
+         1            6            0           12           -2            9            4            3            1   
+         2            0           -1            3            1            1            3            0            3   
+         2            3            1            6            0            4            3            0            3   
+         2            6            0            9            1            7            3            0            3   
+         2            9            1           12           -2           10            3            0            3   
+
+Buffer_Vol 8  Solution_Vol 7   Waste_Vol 3  Output_Vol 12   Dilutions 7  
+Ratio Sequence :   {1,1}  {1,1}  {2,1}  
+
+
+                                                              Sequence No:   17
+     Index     Lower_CF   Lower_Index     Upper_CF   Upper_Index   Resultant_CF    In-degree   Out-degree       Volume   
+         0            0           -1           12           -2            6            6            5            1   
+         1            0           -1            6            0            2            3            2            1   
+         1            6            0           12           -2            8            3            2            1   
+         2            0           -1            2            1            1            2            0            2   
+         2            2            1            6            0            4            2            0            2   
+         2            6            0            8            1            7            2            0            2   
+         2            8            1           12           -2           10            2            0            2   
+
+Buffer_Vol 6  Solution_Vol 5   Waste_Vol 3  Output_Vol 8   Dilutions 7  
+Ratio Sequence :   {1,1}  {2,1}  {1,1}  
+
+
+                                                              Sequence No:   18
+     Index     Lower_CF   Lower_Index     Upper_CF   Upper_Index   Resultant_CF    In-degree   Out-degree       Volume   
+         0            0           -1           12           -2            4            6            4            2   
+         1            0           -1            4            0            2            2            2            0   
+         1            4            0           12           -2            8            2            2            0   
+         2            0           -1            2            1            1            2            0            2   
+         2            2            1            4            0            3            2            0            2   
+         2            4            0            8            1            6            2            0            2   
+         2            8            1           12           -2           10            2            0            2   
+
+Buffer_Vol 6  Solution_Vol 4   Waste_Vol 2  Output_Vol 8   Dilutions 7  
+Ratio Sequence :   {2,1}  {1,1}  {1,1}  
